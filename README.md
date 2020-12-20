@@ -24,3 +24,7 @@ In the beginner's mind, as the man said, there are many possibilities. In the ex
 - `parser combinator` combines two parsers into a new one
 - `functor`
 
+- https://stackoverflow.com/questions/7533837/explanation-of-combinators-for-the-working-man/7534575#7534575
+- https://stackoverflow.com/questions/97637/good-explanation-of-combinators-for-non-mathematicians
+- https://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/23236777
+
