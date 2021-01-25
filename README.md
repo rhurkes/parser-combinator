@@ -23,8 +23,15 @@ In the beginner's mind, as the man said, there are many possibilities. In the ex
 - `higher order function` is a function that returns a function
 - `parser combinator` combines two parsers into a new one
 - `functor`
+- `predicate` is a function that tests for some condition involving its arguments and returns nil if the condition is false, or some non-nil value if the condition is true. One may think of a predicate as producing a Boolean value, where nil stands for false and anything else stands for true.
 
 - https://stackoverflow.com/questions/7533837/explanation-of-combinators-for-the-working-man/7534575#7534575
 - https://stackoverflow.com/questions/97637/good-explanation-of-combinators-for-non-mathematicians
 - https://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/23236777
 
+
+1. What does `impl` keyword do?
+2. How do traits work?
+3. How does `Box<>` work?
+4. What does `dyn` keyword do?
+5. What the hell is `An Opportunity Presents Itself` about?
